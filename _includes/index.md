@@ -99,8 +99,8 @@ you will use to broadcast.
 mixer. Mixer main, stereo out needs to get into the mac. You will need
 some adapter cables since the mac input is a mini phone jack.
 
-6. Configure Nicecast to talk to your Via Streaming account, and BAM!
-You are good to go!
+6. Configure Nicecast to talk to your Via Streaming account, cue the
+King Crimson...
 
 7. Start a revolution!
 
