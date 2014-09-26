@@ -9,7 +9,7 @@ Spin records, interview celebrities, the sky is the limit.  Here's how
 
 * You will probably want **something to play music on**. For example a
   record player or CD player or iPod.
-* You will probably want a **micropohone** so you can expound on the many
+* You will probably want a **microphone** so you can expound on the many
   virtues of German prog-rock to your adoring fans.  You may want **an
   additonal microphone** so that you can interview guest celebs.
 * You will need some **headphones** so that when you are using the
